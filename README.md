@@ -34,3 +34,6 @@ lab:2
   - Visit a historical landmark located within walking distance.
 
 ---
+Welcome to my GitHub repository!
+Explore more about me in [MyMedia](MyMedia.md).
+!
