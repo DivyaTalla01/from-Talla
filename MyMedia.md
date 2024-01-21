@@ -24,3 +24,19 @@ In this section, I recommend some noteworthy books that I believe you should try
 
 ---
 
+# Favorite Quotes
+
+In this section, I share two quotes that resonate with me, each from a notable person.
+
+---
+
+> "Success is the sum of small efforts, repeated day in and day out."  
+> \- _Robert Collier_
+
+> "The most certain way to succeed is always to try just one more time."  
+> \- _Thomas Edison_
+
+---
+
+
+
