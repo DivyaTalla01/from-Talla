@@ -20,3 +20,17 @@ lab:2
 
 ---
 
+---
+
+## Places to Visit Near the Restaurant
+
+- Local Park
+  - Enjoy a peaceful stroll in the nearby park.
+
+- Art Gallery
+  - Explore the local art scene at the nearby gallery.
+
+- Historic Landmark
+  - Visit a historical landmark located within walking distance.
+
+---
