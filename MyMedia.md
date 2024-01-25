@@ -39,4 +39,20 @@ In this section, I share two quotes that resonate with me, each from a notable p
 ---
 
 
+# Code Fencing
+import json
+
+
+This code snippet is a Python function named read_json_from_file that reads and loads JSON data from a specified file path using the json module
+
+``` 
+def read_json_from_file(filepath):
+with open(filepath, "r") as f:
+data = json.load(f) 
+
+link: <https://code.pieces.app/collections/python>
+
+
+
+
 
